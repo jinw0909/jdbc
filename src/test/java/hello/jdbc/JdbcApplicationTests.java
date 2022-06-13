@@ -8,6 +8,7 @@ class JdbcApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
